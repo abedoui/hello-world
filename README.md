@@ -1,2 +1,2 @@
 # hello-world
-Let greet the world
+I am writing something about myself :)
