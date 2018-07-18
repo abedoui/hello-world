@@ -1,2 +1,2 @@
 # hello-world
-Let greet the work
+Let greet the world
